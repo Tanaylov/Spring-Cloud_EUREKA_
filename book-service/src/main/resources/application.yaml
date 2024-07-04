@@ -11,3 +11,8 @@ eureka:
 spring:
   application:
     name: book-service
+
+starter:
+  timer:
+    aspect:
+      enabled: true

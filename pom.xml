@@ -27,7 +27,8 @@
         <module>discovery-service</module>
         <module>reader-service</module>
         <module>entity-storage</module>
-    </modules>
+		<module>starter-timer</module>
+	</modules>
 	<scm>
 		<connection/>
 		<developerConnection/>
